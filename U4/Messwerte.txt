@@ -1,0 +1,4 @@
+2018 10 16 Luftdruck 1014.7
+2018 10 17 Niederschlag 1.3
+2000 1	17 Temperatur -273.15
+2018 10 16 Niederschlag 0.0
